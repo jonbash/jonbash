@@ -1,6 +1,6 @@
 ### Hello! I'm Jon Bash!
 
-I'm primarily an iOS Developer, but I also do game and web development and compose music.
+I'm primarily an iOS Developer, but I also do game & web development and compose music.
 
 - Check out [my website](http://jonbash.com) for more general info [about me](http://jonbash.com/about), [the code I write](http://jonbash.com/code), and [the music I make](http://jonbash.com/other-music).
 - See what I'm up to lately at [my 'now' page](http://jonbash.com/about/#now)
