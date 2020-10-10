@@ -4,4 +4,4 @@ I'm an iOS Developer, with a side helping of game & web development, music compo
 
 - Check out [my website](http://jonbash.com) for more general info [about me](http://jonbash.com/about), [the code I write](http://jonbash.com/code), and [the music I make](http://jonbash.com/other-music).
 - See what I'm up to lately at [my 'now' page](http://jonbash.com/about/#now)
-- Contact me at [jon@jonbash.com](mailto:jon@jonbash.com)
+- Contact me at [JonBash@pm.me](mailto:JonBash@pm.me)
